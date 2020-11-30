@@ -1,0 +1,28 @@
+### ShishGL initialization started
+### ShishGL initialized
+### Created window 0x60b0000045b0 at (0, 0) 1024x720px
+### Created window 0x6110000377c0 at (67, 67) 890x460px
+### Created window 0x611000037900 at (30, 30) 400x400px
+### Created window 0x611000037a40 at (460, 30) 400x400px
+### Graphs: 0x6110000377c0
+### Created window 0x60f000000d60 at (67, 537) 100x40px
+### Created window 0x60f000000e50 at (177, 537) 100x40px
+### Created window 0x60f000000f40 at (287, 537) 100x40px
+### Created window 0x60f000001030 at (397, 537) 100x40px
+### Created window 0x60f000001120 at (67, 587) 200x40px
+### Created window 0x60f000001210 at (277, 587) 200x40px
+### Created window 0x60f000001300 at (487, 587) 200x40px
+### Window 0x60b0000045b0 is now active with id 1
+### Window 0x6110000377c0 is now active with id 2
+### Window 0x611000037900 is now active with id 3
+### Window 0x611000037a40 is now active with id 4
+### Window 0x60f000000d60 is now active with id 5
+### Window 0x60f000000e50 is now active with id 6
+### Window 0x60f000000f40 is now active with id 7
+### Window 0x60f000001030 is now active with id 8
+### Window 0x60f000001120 is now active with id 9
+### Window 0x60f000001210 is now active with id 10
+### Window 0x60f000001300 is now active with id 11
+### Target: 0x6110000377c0, code: 1
+### Target: 0x6110000377c0, code: -100
+### Terminating ShishGL

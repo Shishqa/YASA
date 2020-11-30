@@ -1,0 +1,6 @@
+.idea/
+.ccls
+.clang-format
+
+bin/
+build/
